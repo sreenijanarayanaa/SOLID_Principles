@@ -1,6 +1,6 @@
 # 🧱 SOLID Principles in Object-Oriented Design
 - SOLID is an acronym for five fundamental principles of ObjectOriented Programming (OOP) and design.
-- These principles help developers create maintainable, scalable, and flexible software.
+- These principles help developers create clean, maintainable, scalable, and flexible software.
 -  Introduced by Robert C. Martin (Uncle Bob), these principles are now standard guidelines for writing clean and efficient code.
 
 ## 1. Single Responsibility Principle (SRP)
